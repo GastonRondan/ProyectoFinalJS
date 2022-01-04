@@ -1,0 +1,148 @@
+[
+    {
+        "clasificacion": "Cama para perros",
+        "nombre": "Cama de cuero",
+        "marca": "Cama de cuero",
+        "talle": "S/M",
+        "precio": 5000,
+        "stock": 30,
+        "img": "producto1.jpg"
+    },
+    {
+        "clasificacion": "Cama para perros",
+        "nombre": "Pata gigante",
+        "talle": "M/G",
+        "precio": 5000,
+        "stock": 20,
+        "img": "producto2.jpg"
+    },
+    {
+        "clasificacion": "Cama para perros",
+        "nombre": "Cama de sandía",
+        "talle":"S/M",
+        "precio": 3500,
+        "stock": 15,
+        "img": "producto3.jpg"
+    },
+    {
+        "clasificacion": "Cama para perros",
+        "nombre": "Cama con frazada",
+        "talle": "S/M",
+        "precio": 4000,
+        "stock": 10,
+        "img": "producto4.jpg"
+    },
+    {
+        "clasificacion": "Cama para perros",
+        "nombre": "Cama de mar",
+        "talle": "M",
+        "precio": 3000,
+        "stock": 38,
+        "img": "producto5.png"
+    },
+    {
+        "clasificacion": "Cama para perros",
+        "nombre": "Camuflaje militar",
+        "talle": "M",
+        "precio": 3000,
+        "stock": 26,
+        "img": "producto6.png"
+    },
+    {
+        "clasificacion": "Cama para perros",
+        "nombre": "Cama de flores",
+        "talle": "M/G",
+        "precio": 3000,
+        "stock": 35,
+        "img": "producto7.jpg"
+    },
+    {
+        "clasificacion": "Cama para perros",
+        "nombre": "Cama abrigada",
+        "talle": "M",
+        "precio": 3000,
+        "stock": 47,
+        "img": "producto8.jpg"
+    },
+    {  
+        "clasificacion": "Cama para perros",
+        "nombre": "Cama-sillón",
+        "talle": "M/G",
+        "precio": 4000,
+        "stock": 10,
+        "img": "producto9.jpg"
+    },
+    {
+        "clasificacion": "Cama para perros",
+        "nombre": "Cama de sandías",
+        "talle": "S/M",
+        "precio": 3000,
+        "stock": 38,
+        "img": "producto10.jpg"
+    },
+    {
+        "clasificacion": "Cama para perros",
+        "nombre": "Cama felpudo",
+        "talle": "S/M",
+        "precio": 3000,
+        "stock": 54,
+        "img": "producto11.jpg"
+    },
+    {
+        "clasificacion": "Cama para perros",
+        "nombre": "Cama gris",
+        "talle": "S/M",
+        "precio": 3000,
+        "stock": 24,
+        "img": "producto12.jpg"
+    },
+    {
+        "clasificacion": "Cama para perros",
+        "nombre": "Cama redonda",
+        "talle": "S/M",
+        "precio": 3100,
+        "stock": 35,
+        "img": "producto13.jpg"
+    }, 
+    {
+        "clasificacion": "Cama para perros",
+        "nombre": "Cama elevada",
+        "talle": "S/M",
+        "precio": 3100,
+        "stock": 16,
+        "img": "producto14.jpg"
+    },
+    {
+        "clasificacion": "Cama para perros",
+        "nombre": "Cama con almohada",
+        "talle": "S/M",
+        "precio": 2500,
+        "stock": 24,
+        "img": "producto15.jpg"
+    },
+    {
+        "clasificacion": "Cama para perros",
+        "nombre": "Cama con forma de Iglú",
+        "talle": "M",
+        "precio": 4000,
+        "stock": 28,
+        "img": "producto16.jpg"
+    },
+    {
+        "clasificacion": "Cama para perros",
+        "nombre": "Cama anti-stress",
+        "talle": "S/M",
+        "precio": 4000,
+        "stock": 47,
+        "img": "producto17.jpg"
+    },
+    {
+        "clasificacion": "Cama para perros",
+        "nombre": "Cama Kiwi",
+        "talle": "M",
+        "precio": 2000,
+        "stock": 33,
+        "img": "producto18.jpg"
+    }
+    
+]
